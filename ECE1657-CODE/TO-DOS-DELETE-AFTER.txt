@@ -1,0 +1,7 @@
+-- do code
+-- make slides based on lecture material
+-- make slides for some research / do a small amount of research for things
+--For Type 4, you should focus on:
+-----characterizing, contrasting and illustrating propertiesof the algorithms 
+-----(convergence properties, classes of games it covers, knowledge/informationrequired, performance, e.g.  rate of convergence)
+--make gui maybe
